@@ -22,3 +22,20 @@ video#filme{
     top: 85px;
     width: 440px;
 }
+
+video#filme01{
+    display: block;
+    position: relative;
+    left: 00px;
+    top: 0px;
+    width: 440px;
+    margin-bottom: 20px;
+}
+
+video#filme02{
+    display: block;
+    position: relative;
+    left: 00px;
+    top: 0px;
+    width: 350px;
+}
